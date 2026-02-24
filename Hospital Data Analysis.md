@@ -87,13 +87,13 @@ This data contains patient details based on characteristics, diagnosis, treatmen
 
 ### Visualizations
 
-![distribution%20of%20length%20stay.png](attachment:distribution%20of%20length%20stay.png)
+![LOS Distribution](los_distribution.png)
 
-![Age%20group%20vs%20Patient%20%25%20and%20Length%20of%20Stay.png](attachment:Age%20group%20vs%20Patient%20%25%20and%20Length%20of%20Stay.png)
+![Age vs LOS](age_vs_los.png)
 
-![Top%205%20MDC%20Categories%20in%20each%20group.png](attachment:Top%205%20MDC%20Categories%20in%20each%20group.png)
+![Top MDC Categories](top_mdc_categories.png)
 
-![Top%205%20MDC%20Codes%20by%20Revenue.png](attachment:Top%205%20MDC%20Codes%20by%20Revenue.png)
+![Top MDC Revenue](top_mdc_revenue.png)
 
 ## Author
 Sunil Sundas
